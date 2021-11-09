@@ -24,7 +24,7 @@ Deployment of upgrades to any environment should be done via blue / green deploy
 ![ImmutablePipeline3](images/ImmutablePipeline-Page-3.png
 )
 
-This builds on the work being performed in the organziations-stack project
+This builds on the work being performed in the organizations-stack project
 
 ![libdiagram](images/lib_diagram.png
 )
